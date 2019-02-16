@@ -4,7 +4,7 @@ This repo will self-destruct in five seconds. Good luck!*/
 
 
 /*Mission 1: 
-Team Leader: 
+Team Leader: Jess
 
 @param Datatype: String
 @return Datatype: String
@@ -15,7 +15,7 @@ Console.log to see your result.*/
 
 
  /*Mission 2: 
- Team Leader: 
+ Team Leader: Frank
  
  @param Datatype: String
  @param Datatype: Number
